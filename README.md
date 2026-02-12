@@ -1,5 +1,7 @@
 # Shad — Turborepo Monorepo
 
+This project demonstrates how to scale multiple frontend panels without code duplication by consolidating them into a Turborepo-based monorepo with a shared UI system and enforced governance.
+
 A monorepo powered by [Turborepo](https://turbo.build/) with shared [shadcn/ui](https://ui.shadcn.com/) components, housing multiple React applications that share a common design system.
 
 ---
